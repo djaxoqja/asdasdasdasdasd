@@ -98,4 +98,5 @@ Greengrass: Carla → 로컬 → AWS 클라우드
 
 ### 참고자료
 AWS IoT Greengrass Developer Guide [What is AWS IoT Greengrass?]
+
 https://docs.aws.amazon.com/greengrass/v2/developerguide/what-is-iot-greengrass.html
